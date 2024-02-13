@@ -6,7 +6,7 @@
             <p style="color: #fff; opacity: 30%;">{{ web.resume }}</p>
         </div>
         <div class="card_link">
-            <a href="">
+            <a :href="web.link">
                 <Icon name="quill:link-out" class="card_icon"></Icon>
             </a>
         </div>
@@ -19,13 +19,13 @@ const webs = [
         number: '01',
         name: 'ecommerce',
         resume: 'Web based on the style of the free Ecommerce market.',
-        link: ''
+        link: 'https://ecommerce-frontend-jet-gamma.vercel.app/'
     },
     {
         number: '02',
         name: 'movie web',
         resume: 'Application to view recent information about movies and series.',
-        link: ''
+        link: 'https://movie-page-frontend.vercel.app/'
     },
     {
         number: '03',
