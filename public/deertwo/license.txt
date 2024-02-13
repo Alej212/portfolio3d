@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deer
+* source:	https://sketchfab.com/3d-models/deer-ff5d94e3b3634ec5b7e8689106968bec
+* author:	sinork123 (https://sketchfab.com/sinork123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deer" (https://sketchfab.com/3d-models/deer-ff5d94e3b3634ec5b7e8689106968bec) by sinork123 (https://sketchfab.com/sinork123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

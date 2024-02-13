@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deer Skull
+* source:	https://sketchfab.com/3d-models/deer-skull-b66da9cc7f4e4895bfcd334c66f003f2
+* author:	danny_p3d (https://sketchfab.com/dannyp_3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deer Skull" (https://sketchfab.com/3d-models/deer-skull-b66da9cc7f4e4895bfcd334c66f003f2) by danny_p3d (https://sketchfab.com/dannyp_3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

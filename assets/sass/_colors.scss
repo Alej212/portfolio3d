@@ -1,0 +1,67 @@
+// COLORS CONFIGURATIONS
+
+$primary: hsl(0, 0%, 15%);
+$secondary: hsla(350, 59%, 47%);
+$terciary: hsl(170, 59%, 47%);
+
+$primaryneon: hsl(0, 0%, 60%);
+$secondaryneon: hsl(350, 59%, 60%);
+$terciaryneon: hsl(170, 59%, 60%);
+
+// ANIMATIONS COLORS
+
+@mixin neon-animation($color) {
+    animation: pulse 4s infinite;
+  
+    @keyframes pulse {
+      0% {
+        box-shadow: 
+          0 0 5px $color, 
+          0 0 10px $color, 
+          0 0 15px $color, 
+          0 0 20px $color;
+      }
+      50% {
+        box-shadow: 
+          0 0 10px $color, 
+          0 0 20px $color, 
+          0 0 30px $color, 
+          0 0 40px $color;
+      }
+      100% {
+        box-shadow: 
+          0 0 5px $color, 
+          0 0 10px $color, 
+          0 0 15px $color, 
+          0 0 20px $color;
+      }
+    }
+  }
+  
+  @mixin neon-animation-text($color) {
+    animation: pulse 4s infinite;
+  
+    @keyframes pulse {
+      0% {
+        text-shadow: 
+          0 0 5px $color, 
+          0 0 10px $color, 
+          0 0 15px $color, 
+          0 0 20px $color;
+      }
+      50% {
+        text-shadow: 
+          0 0 10px $color, 
+          0 0 20px $color, 
+          0 0 30px $color, 
+          0 0 40px $color;
+      }
+      100% {
+        text-shadow: 
+          0 0 5px $color, 
+          0 0 10px $color, 
+          0 0 15px $color, 
+          0 0 20px $color;
+      }
+    }
+  }
